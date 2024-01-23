@@ -39,3 +39,5 @@ To run this Connect 4 game on your machine, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/connect-4-java.git
+
+2. run Java app
